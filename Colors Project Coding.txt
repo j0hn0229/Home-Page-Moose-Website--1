@@ -1,0 +1,111 @@
+<style>
+
+.box {
+	border-color: black;
+	border-width: 5px;
+	border-radius: 10%;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-style: solid;
+	text-align: center;
+	box-width: 50px;
+ 	height: 50px;
+  	width: 100px;
+	}
+
+.red-background {
+  background-color: red;
+}
+.orange-background {
+  background-color: #FFA500;
+}
+.yellow-background {
+  background-color: #FFFF00;
+}
+.lime-green-background {
+  background-color: #00FF00;
+}
+.green-background {
+  background-color: #008000;
+}
+.dark-green-background {
+  background-color: #006400;
+}
+.light-blue-background {
+  background-color: #ADD8E6;
+}
+.blue-background {
+  background-color: #0000FF;
+}
+.cyan-background {
+  background-color: #00FFFF;
+}
+.purple-background {
+  background-color: #800080;
+}
+.magenta-background {
+  background-color: #FF00FF;
+}
+.black-background {
+  background-color: #FFFFFF;
+}
+.brown-background {
+  background-color: #A0522D;
+}
+</style>
+
+
+<p>HTML Colors</p>
+
+<div class="box red-background">
+	<p>Red</p>
+</div>
+<div class="box orange-background">
+	<p>Orange</p>
+</div>
+
+<div class="box yellow-background">
+	<p>Yellow</p>
+</div>
+
+<div class="box lime-green-background">
+	<p>Lime Green</p>
+</div>
+
+<div class="green-background box">
+	<p>Green</p>
+</div>
+
+<div class="box dark-green-background">
+	<p>Dark Green</p>
+</div>
+
+<div class="light-blue-background box">
+	<p>Light Blue</p>
+</div>
+
+<div class="blue-background box">
+	<p>Blue</p>
+</div>
+
+<div class="cyan-background box">
+	<p>Cyan</p>
+</div>
+
+<div class="box purple-background">
+	<p>Purple</p>
+</div>
+
+<div class="magenta-background box">
+	<p>Magenta</p>
+</div>
+
+<div class="black-background box">
+	<p>White</p>
+</div>
+
+<div class="brown-background box">
+	<p>Brown</p>
+</div>
